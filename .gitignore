@@ -1,2 +1,11 @@
 .gradle
 build
+
+# Generated Files - eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# eclipse testng plugin test results
+test-output/
