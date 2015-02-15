@@ -9,3 +9,10 @@ bin/
 
 # eclipse testng plugin test results
 test-output/
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+*.iml
+## Directory-based project format:
+.idea/
+# IntelliJ
+out/
